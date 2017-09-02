@@ -1,0 +1,1 @@
+{{ map.contains_key(holder.key_as_ref()) }}

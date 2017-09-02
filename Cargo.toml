@@ -1,0 +1,11 @@
+[package]
+name = "huge_compile"
+version = "0.1.0"
+authors = [""]
+build = "build.rs"
+
+[dependencies]
+askama = "*"
+
+[build-dependencies]
+askama = "*"
